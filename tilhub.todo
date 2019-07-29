@@ -1,0 +1,15 @@
+1. Make it easy to create a TIL
+  - Create it using the web editor
+  - Create a file in a GitHub repo and push it
+2. Show all the TILs namespaced under a user's URL on TILHub
+3. Make it easy to follow a tag on TILHub
+  - Following a tag will send you a weekly digest of all the popular TILs
+4. Make it easy to follow a person on TILHub
+5. Show related TILs below a TIL
+6. Should be able to heart (<3) a TIL
+
+
+ - Deployment
+ - Best practices
+ - Performance
+ - Fault tolerant and Highly Available (Switch the database to DynamoDB?)
